@@ -2,7 +2,7 @@
 
 Este projeto é um sistema para controle de gastos residenciais, permitindo o cadastro de pessoas e transações financeiras, além da consulta de totais de receitas e despesas.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Backend:
 
@@ -20,7 +20,7 @@ Axios (Requisições HTTP para comunicação com o backend)
 
 Tailwind CSS (Estilização da aplicação)
 
-Como Rodar o Sistema
+# Como Rodar o Sistema
 
 🔧 1. Configuração do Backend
 
